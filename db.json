@@ -1,1 +1,74 @@
-
+{
+"users:" [
+  {
+    "_id": "620a65d57b87a35298ebeab2",
+    "age": 25,
+    "name": "Trisha Bridges",
+    "email": "trishabridges@apextri.com",
+    "address": "375 Knapp Street, Iola, West Virginia, 5136"
+  },
+  {
+    "_id": "620a65d56377fc3211b03f8f",
+    "age": 35,
+    "name": "Stefanie Stokes",
+    "email": "stefaniestokes@apextri.com",
+    "address": "242 Commerce Street, Hemlock, Georgia, 1965"
+  },
+  {
+    "_id": "620a65d55b461202c87cd590",
+    "age": 23,
+    "name": "Hart Steele",
+    "email": "hartsteele@apextri.com",
+    "address": "699 Schweikerts Walk, Edgewater, Guam, 225"
+  },
+  {
+    "_id": "620a65d5ab2942cfa7d336c9",
+    "age": 29,
+    "name": "Sears Farmer",
+    "email": "searsfarmer@apextri.com",
+    "address": "600 Concord Street, Fredericktown, Arizona, 1807"
+  },
+  {
+    "_id": "620a65d5411c19e2ca6c92a6",
+    "age": 20,
+    "name": "May Leon",
+    "email": "mayleon@apextri.com",
+    "address": "450 Doone Court, Sims, Hawaii, 1883"
+  },
+  {
+    "_id": "620a65d5affa8f17fd41ca56",
+    "age": 30,
+    "name": "Dana York",
+    "email": "danayork@apextri.com",
+    "address": "356 Sunnyside Avenue, Bancroft, New Hampshire, 747"
+  },
+  {
+    "_id": "620a65d5f1042de2967fd785",
+    "age": 20,
+    "name": "Marissa Perry",
+    "email": "marissaperry@apextri.com",
+    "address": "426 Seba Avenue, Sylvanite, Massachusetts, 3379"
+  },
+  {
+    "_id": "620a65d5ddb1d36fac4928d1",
+    "age": 22,
+    "name": "Terra Abbott",
+    "email": "terraabbott@apextri.com",
+    "address": "949 Dewitt Avenue, Selma, Colorado, 3463"
+  },
+  {
+    "_id": "620a65d5acbe2c81d8fab79d",
+    "age": 33,
+    "name": "Reynolds Hendricks",
+    "email": "reynoldshendricks@apextri.com",
+    "address": "128 Randolph Street, Cliffside, Idaho, 1760"
+  },
+  {
+    "_id": "620a65d57a6cba79c765c32b",
+    "age": 26,
+    "name": "Noel Noel",
+    "email": "noelnoel@apextri.com",
+    "address": "557 Nevins Street, Websterville, American Samoa, 7506"
+  }
+]
+}
